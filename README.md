@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yonderus&fontSize=42&fontAlignY=30&desc=Multiplatform%20Application%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Yonderus&fontSize=42&fontAlignY=30&desc=Multiplatform%20Application%20Developer&descAlignY=51&descAlign=50&animation=twinkling"/>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;Cross-Platform+Specialist+%F0%9F%93%B1;Always+Learning+New+Technologies+%F0%9F%92%A1;Building+Tomorrow's+Solutions+Today+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=C77DFF&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%9A%80;Cross-Platform+Specialist+%F0%9F%93%B1;Always+Learning+New+Technologies+%F0%9F%92%A1;Building+Tomorrow's+Solutions+Today+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yonderus&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Yonderus?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Yonderus?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Yonderus&label=Profile%20views&color=9D4EDD&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Yonderus?label=Followers&style=for-the-badge&color=7B2CBF" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Yonderus?label=Stars&style=for-the-badge&color=C77DFF" alt="stars" />
 </p>
 
 </div>
@@ -175,16 +175,16 @@ Development Tools:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yonderus&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yonderus&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yonderus&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yonderus&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonderus&theme=react&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonderus&theme=radical&hide_border=true&background=0D1117&stroke=C77DFF&ring=9D4EDD&fire=E0AAFF&currStreakLabel=C77DFF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yonderus&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yonderus&theme=high-contrast&hide_border=true&area=true&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=E0AAFF" alt="Activity Graph"/>
 </div>
 
 ### 🏆 GitHub Trophies
@@ -200,19 +200,19 @@ Development Tools:
 <div align="center">
 
 <a href="https://github.com/Yonderus/DeportRentAPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yonderus&repo=DeportRentAPP&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yonderus&repo=DeportRentAPP&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD" />
 </a>
 
 <a href="https://github.com/Yonderus/Respi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yonderus&repo=Respi&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yonderus&repo=Respi&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD" />
 </a>
 
 <a href="https://github.com/Yonderus/Practica_Moduls_Odoo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yonderus&repo=Practica_Moduls_Odoo&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yonderus&repo=Practica_Moduls_Odoo&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD" />
 </a>
 
 <a href="https://github.com/Yonderus/Proyecto_Final_Banda_Musica">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yonderus&repo=Proyecto_Final_Banda_Musica&theme=react&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yonderus&repo=Proyecto_Final_Banda_Musica&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD" />
 </a>
 
 </div>
@@ -280,7 +280,7 @@ ERP Systems:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yonderus&custom_title=Yonderus's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yonderus&custom_title=Yonderus's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=E0AAFF&area_color=7B2CBF&title_color=FFFFFF&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -315,7 +315,7 @@ ERP Systems:
 ### 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=J.Gisbert&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=J.Gisbert&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=9D4EDD&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
 
 ### 🐍 Contribution Snake
@@ -328,10 +328,10 @@ ERP Systems:
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=120&section=footer&animation=twinkling"/>
 
 **✨ "Code is poetry written in logic" ✨**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C77DFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
