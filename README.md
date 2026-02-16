@@ -315,7 +315,7 @@ ERP Systems:
 ### 🎵 Currently Vibing To
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=J.Gisbert&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=9D4EDD&bar_color_cover=false" alt="Spotify Now Playing"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1ypfbdz3s4iohivt5hrxil0jo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=9D4EDD&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
 
 ### 🐍 Contribution Snake
