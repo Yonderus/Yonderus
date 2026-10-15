@@ -37,7 +37,11 @@ Hice las prácticas de DAM en Designo Studio, donde también hicimos el CRM y la
 
 <img src="assets/path.svg" width="100%" alt="SMX (2022–2024), DAM (2024–2026) y DAW (2026–2027, en curso) en el IES L'Estació. Prácticas en el Hotel AX Odycy de Malta (2024) y en Designo Studio, València (2026)." />
 
-**Certificaciones:** [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/go/uCUdZFtq) (AWS Academy, nov. 2025)
+### Certificaciones
+
+<a href="https://www.credly.com/go/uCUdZFtq"><img src="assets/cert-aws-cloud-foundations.png" width="84" alt="Insignia AWS Academy Graduate – Cloud Foundations" /></a>
+
+[AWS Academy Graduate – Cloud Foundations](https://www.credly.com/go/uCUdZFtq) · AWS Academy, nov. 2025
 
 ## Actividad
 
