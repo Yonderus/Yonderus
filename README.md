@@ -7,7 +7,7 @@
 
 <br />
 
-Hola, soy Javier. Terminé **DAM** y ahora estoy en **DAW** en el IES L'Estació de Ontinyent. Desarrollo aplicaciones completas, de escritorio, móviles y web, con sus APIs y sus bases de datos. Por mi cuenta estoy perfeccionando JavaScript y Angular, y me preparo la certificación oficial de Odoo.
+Hola, soy Javier. Terminé **DAM** y ahora estoy en **DAW** en el IES L'Estació de Ontinyent. Desarrollo aplicaciones completas, de escritorio, móviles y web, con sus APIs y sus bases de datos, y también me ocupo del despliegue con Docker, GitHub Actions, AWS y Azure. Sigo aprendiendo Odoo por mi cuenta, con la intención de llegar a la certificación oficial.
 
 Hice las prácticas de DAM en Designo Studio, donde también hicimos el CRM y la web de la agencia. Ahora busco **mi primer puesto como desarrollador junior**. Fuera del código, toco en una banda de música.
 
@@ -19,20 +19,25 @@ Hice las prácticas de DAM en Designo Studio, donde también hicimos el CRM y la
 </p>
 <p>
   <a href="https://designostudio.com"><img src="assets/project-web-designo.svg" width="49%" alt="designostudio.com. Designo Studio · web corporativa. Web corporativa de la agencia Designo Studio: servicios, casos de clientes, blog y presupuestos, en seis idiomas. Web corporativa, Seis idiomas." /></a>
-  <a href="https://github.com/Yonderus/DeportRentAPP"><img src="assets/project-deportrent.svg" width="49%" alt="DeportRentAPP. App móvil · DAM. App móvil para gestionar un alquiler de material deportivo: clientes, productos con tallas, pedidos y carrito. React Native, Expo, TypeScript, Supabase." /></a>
+  <a href="https://github.com/Yonderus/ia-shorts-pipeline"><img src="assets/project-shorts-ia.svg" width="49%" alt="Shorts con IA. Proyecto personal · Python. Pipeline en Python que convierte un tema en un vídeo vertical listo para publicar: guion, voz, clips, subtítulos y montaje. Python, Claude API, ElevenLabs, Whisper, MoviePy." /></a>
 </p>
 <p>
+  <a href="https://github.com/Yonderus/DeportRentAPP"><img src="assets/project-deportrent.svg" width="49%" alt="DeportRentAPP. App móvil · DAM. App móvil para gestionar un alquiler de material deportivo: clientes, productos con tallas, pedidos y carrito. React Native, Expo, TypeScript, Supabase." /></a>
   <a href="https://github.com/Yonderus/Biblio-Instituto"><img src="assets/project-biblio.svg" width="49%" alt="BiblioInstituto. Módulo de Odoo 18. Módulo para Odoo 18 que gestiona la biblioteca de un instituto: catálogo, préstamos, informes en PDF y permisos. Odoo, Python, PostgreSQL, Docker." /></a>
+</p>
+<p align="center">
   <a href="https://github.com/Yonderus/Proyecto_Banda_Musica"><img src="assets/project-banda.svg" width="49%" alt="Banda de Música. Proyecto final de asignatura · DAM. Aplicación de escritorio para gestionar una banda de música: músicos, instrumentos, actuaciones e informes. C#, .NET / WPF, SQL Server." /></a>
 </p>
 
 ## Con qué trabajo
 
-<img src="assets/stack.svg" width="100%" alt="Lenguajes: C#, Java, TypeScript, JavaScript, Python. Frontend y móvil: .NET / WPF, Angular, React y React Native, Flutter. Backend y datos: NestJS, Node.js, Express, Supabase, SQL Server, MariaDB, PostgreSQL, MongoDB. ERP y herramientas: Odoo, Docker, Git, GitHub Actions, Linux." />
+<img src="assets/stack.svg" width="100%" alt="Lenguajes: C#, Java, TypeScript, JavaScript, Python. Frontend y móvil: .NET / WPF, Angular, React y React Native, Flutter. Backend y datos: NestJS, Node.js, Express, Supabase, SQL Server, MariaDB, PostgreSQL, MongoDB. Cloud, DevOps y ERP: Odoo, Docker, Git, GitHub Actions, AWS, Azure, Linux." />
 
 ## Trayectoria
 
 <img src="assets/path.svg" width="100%" alt="SMX (2022–2024), DAM (2024–2026) y DAW (2026–2027, en curso) en el IES L'Estació. Prácticas en el Hotel AX Odycy de Malta (2024) y en Designo Studio, València (2026)." />
+
+**Certificaciones:** [AWS Academy Graduate – Cloud Foundations](https://www.credly.com/go/uCUdZFtq) (AWS Academy, nov. 2025)
 
 ## Actividad
 
