@@ -1,0 +1,39 @@
+name: Generate Snake
+
+on:
+  # Se ejecuta automáticamente una vez al día
+  schedule:
+    - cron: "0 3 * * *"
+
+  # Te permite ejecutarlo manualmente desde la pestaña Actions
+  workflow_dispatch:
+
+  # Se ejecuta cada vez que haces push al repositorio
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Genera la serpiente con la paleta del portfolio (zafiro → amatista)
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Yonderus
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#5b21b6&color_dots=#e6eaf5,#c7d8ff,#7fa6f5,#2a6df4,#5b21b6
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#c4b5fd&color_dots=#111530,#163a8a,#2a6df4,#8b5cf6,#c4b5fd
+
+      # Publica los SVG generados en la rama output
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
